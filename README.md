@@ -1,2 +1,3 @@
 # poor-sitting-posture-warning
-Run file menu to see demo
+Coding using library mediapipe, a computer vision library of Google
+Run file menu.py to see demo
